@@ -66,6 +66,8 @@ DELETE:
 
 
 METODO LISTAR
+
+
  <img width="653" alt="Captura de Pantalla 2021-05-18 a la(s) 00 43 16" src="https://user-images.githubusercontent.com/62858551/118599851-c6d77e00-b775-11eb-88b6-437f95170de2.png">
 
 Podrá llamar o enviar un correo electrónico desde el sistema usando aplicaciones externas. 
@@ -102,4 +104,3 @@ RECOMENDACIONES:
  
 Estudiantes:  Angel Jadan, Telmo Rocano
 Firma:   
-![image](https://user-images.githubusercontent.com/62858551/118599360-018ce680-b775-11eb-9c83-0fa2ac06ab6f.png)
