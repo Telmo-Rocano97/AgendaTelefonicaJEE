@@ -73,12 +73,12 @@ METODO LISTAR
 Podrá llamar o enviar un correo electrónico desde el sistema usando aplicaciones externas. 
 Finalmente, el sistema de agenda telefónica debe aplicar los patrones de diseño de software MVC y DAO, en donde, el modelo será clases POJOs de Java, la vista será JSP + JSTL y los controladores serán a través de DAOs y Servlets. 
 PAQUETES DEL PROYECTOS
-
-
  <img width="323" alt="Captura de Pantalla 2021-05-18 a la(s) 00 47 42" src="https://user-images.githubusercontent.com/62858551/118599875-cfc84f80-b775-11eb-863f-fd7a38dc2a1b.png">
 
 
 la vista será JSP + JSTL
+
+
 <img width="230" alt="Captura de Pantalla 2021-05-18 a la(s) 00 50 17" src="https://user-images.githubusercontent.com/62858551/118599886-d3f46d00-b775-11eb-91cd-97f08dd18d80.png"> 
 
 RESULTADO(S) OBTENIDO(S): 
