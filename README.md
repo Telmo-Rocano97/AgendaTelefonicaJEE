@@ -104,3 +104,6 @@ RECOMENDACIONES:
  
 Estudiantes:  Angel Jadan, Telmo Rocano
 Firma:   
+
+![image](https://user-images.githubusercontent.com/62858551/118600590-d3100b00-b776-11eb-8bdc-5ec130e3da18.png)
+
